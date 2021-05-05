@@ -1,0 +1,9 @@
+.toolbar {
+  display: flex;
+
+  &__activity {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+  }
+}
